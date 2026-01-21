@@ -48,44 +48,6 @@
 
 ---
 
-## 🔥 Coding Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoares&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="70%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoares&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yoares&repo=final-year-project&theme=tokyonight&hide_border=true)](https://github.com/Yoares/final-year-project)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yoares)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yoares)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Yoares&style=flat-square&color=blue)
